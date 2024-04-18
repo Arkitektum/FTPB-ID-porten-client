@@ -10,7 +10,7 @@ export default function Login() {
 
    async function copyToken() {
       setLoading(true);
-      const token = await fetchAltinnToken(auth.user?.access_token)
+      const token = auth.user?.access_token;
 
       if (token !== null) {
          navigator.clipboard.writeText(token)

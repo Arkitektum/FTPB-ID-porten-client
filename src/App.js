@@ -26,9 +26,6 @@ const App = () => {
 
                   <Login />
 
-                  <div className="token-info">
-                     Here goes accessToken
-                     </div>
                </header>
             </div>
          </div>
