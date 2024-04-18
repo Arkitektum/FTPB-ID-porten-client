@@ -6,8 +6,8 @@ const AUTH_LOGOUT_REDIRECT_URI = process.env.REACT_APP_AUTH_LOGOUT_REDIRECT_URI;
 const EXCHANGE_ALTINN_TOKEN_URL = process.env.REACT_APP_EXCHANGE_ALTINN_TOKEN_URL;
 
 const oidcConfig = {
-   authority: 'https://test.idporten.no',
-   client_id: 'e8036c98-a703-4cbd-8028-3434cf23a4fe',
+   authority: 'https://idporten.no',
+   client_id: '3bb05d5e-7e55-4a1f-8e8c-fdc6c4c2df9f',
    redirect_uri: AUTH_LOGIN_REDIRECT_URI,
    post_logout_redirect_uri: AUTH_LOGOUT_REDIRECT_URI,
    response_type: 'code',
