@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.edd9faea.css",
-    "main.js": "/static/js/main.417f41fb.js",
-    "static/media/logo-dibk.svg": "/static/media/logo-dibk.a646936f27513f6fc41e23c0ce223cdd.svg",
-    "static/media/icon-text-copied.svg": "/static/media/icon-text-copied.a2614887b6f10f8be33a.svg",
-    "static/media/icon-close.svg": "/static/media/icon-close.38fb99fbde7b71114158.svg",
-    "index.html": "/index.html",
-    "main.edd9faea.css.map": "/static/css/main.edd9faea.css.map",
-    "main.417f41fb.js.map": "/static/js/main.417f41fb.js.map"
+    "main.css": "/FTPB-ID-porten-client/static/css/main.b4a21270.css",
+    "main.js": "/FTPB-ID-porten-client/static/js/main.02f3d402.js",
+    "static/media/logo-dibk.svg": "/FTPB-ID-porten-client/static/media/logo-dibk.a646936f27513f6fc41e23c0ce223cdd.svg",
+    "static/media/icon-text-copied.svg": "/FTPB-ID-porten-client/static/media/icon-text-copied.a2614887b6f10f8be33a.svg",
+    "static/media/icon-close.svg": "/FTPB-ID-porten-client/static/media/icon-close.38fb99fbde7b71114158.svg",
+    "index.html": "/FTPB-ID-porten-client/index.html",
+    "main.b4a21270.css.map": "/FTPB-ID-porten-client/static/css/main.b4a21270.css.map",
+    "main.02f3d402.js.map": "/FTPB-ID-porten-client/static/js/main.02f3d402.js.map"
   },
   "entrypoints": [
-    "static/css/main.edd9faea.css",
-    "static/js/main.417f41fb.js"
+    "static/css/main.b4a21270.css",
+    "static/js/main.02f3d402.js"
   ]
 }
