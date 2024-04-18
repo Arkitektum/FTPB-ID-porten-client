@@ -39,7 +39,7 @@ export default function Login() {
          {
             auth.isAuthenticated ?
                <div className={`copyToken ${copied ? 'copied' : ''}`}>
-                  <Button onClick={copyToken} >Kopier Altinn-token</Button>
+                  <Button onClick={copyToken} >Kopier ID-porten token</Button>
                   {
                      loading ?
                         <div className="loader"></div> :

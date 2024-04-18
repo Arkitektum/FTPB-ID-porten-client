@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/FTPB-ID-porten-client/static/css/main.629e38a9.css",
-    "main.js": "/FTPB-ID-porten-client/static/js/main.ec02b3bf.js",
+    "main.js": "/FTPB-ID-porten-client/static/js/main.3448c89f.js",
     "static/media/logo-dibk.svg": "/FTPB-ID-porten-client/static/media/logo-dibk.a646936f27513f6fc41e23c0ce223cdd.svg",
     "static/media/icon-text-copied.svg": "/FTPB-ID-porten-client/static/media/icon-text-copied.a2614887b6f10f8be33a.svg",
     "static/media/icon-close.svg": "/FTPB-ID-porten-client/static/media/icon-close.38fb99fbde7b71114158.svg",
     "index.html": "/FTPB-ID-porten-client/index.html",
     "main.629e38a9.css.map": "/FTPB-ID-porten-client/static/css/main.629e38a9.css.map",
-    "main.ec02b3bf.js.map": "/FTPB-ID-porten-client/static/js/main.ec02b3bf.js.map"
+    "main.3448c89f.js.map": "/FTPB-ID-porten-client/static/js/main.3448c89f.js.map"
   },
   "entrypoints": [
     "static/css/main.629e38a9.css",
-    "static/js/main.ec02b3bf.js"
+    "static/js/main.3448c89f.js"
   ]
 }
