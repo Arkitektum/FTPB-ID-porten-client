@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.edd9faea.css",
+    "main.js": "/static/js/main.417f41fb.js",
+    "static/media/logo-dibk.svg": "/static/media/logo-dibk.a646936f27513f6fc41e23c0ce223cdd.svg",
+    "static/media/icon-text-copied.svg": "/static/media/icon-text-copied.a2614887b6f10f8be33a.svg",
+    "static/media/icon-close.svg": "/static/media/icon-close.38fb99fbde7b71114158.svg",
+    "index.html": "/index.html",
+    "main.edd9faea.css.map": "/static/css/main.edd9faea.css.map",
+    "main.417f41fb.js.map": "/static/js/main.417f41fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edd9faea.css",
+    "static/js/main.417f41fb.js"
+  ]
+}
